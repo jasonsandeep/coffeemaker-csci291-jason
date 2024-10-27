@@ -126,7 +126,7 @@ int main() {
                     int admin_option;
                     while (1) {
                         printf("1. Display ingredients and total sale amount\n");
-                        printf("2. Replenish ingredients and Reset total sale number\n");
+                        printf("2. Replenish ingredients\n");
                         printf("3. Change coffee price\n");
                         printf("4. Reset Total Sale\n");
                         printf("0. Exit Admin Mode\n");
